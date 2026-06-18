@@ -1,6 +1,7 @@
 # Swagger Petstore MCP
 
 [![Verified by MCPForge](https://www.mcpforge.tech/api/badge/verified/swagger-petstore-mcp-susoj)](https://www.mcpforge.tech/verified/swagger-petstore-mcp-susoj)
+[![smithery badge](https://smithery.ai/badge/kamolc4/swagger-petstore-mcp)](https://smithery.ai/servers/kamolc4/swagger-petstore-mcp)
 
 MCP server for the [Swagger Petstore API](https://petstore3.swagger.io), generated with [MCPForge](https://mcpforge.tech).
 
