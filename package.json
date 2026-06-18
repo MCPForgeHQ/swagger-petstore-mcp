@@ -1,0 +1,27 @@
+{
+  "name": "swagger-petstore-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for the Swagger Petstore API, generated with MCPForge",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "petstore",
+    "openapi",
+    "mcpforge",
+    "ai-agents",
+    "claude"
+  ],
+  "homepage": "https://www.mcpforge.tech/verified/swagger-petstore-mcp-susoj",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MCPForgeHQ/swagger-petstore-mcp.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
